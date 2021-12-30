@@ -1,3 +1,7 @@
+# React Node MySql
+
+#react #node #mysql #webdev
+
 **In this lesson we will learn how add, read, delete data from MySql database (phpmyadmin, MySql Workbench, etc) using React in Frontend and Node Js Server.**
 
 _We will also learn how to use Axios, Express, CORS, mysql package, prepared statements and many more things in this project._
