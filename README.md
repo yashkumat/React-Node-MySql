@@ -143,6 +143,3 @@ _Note - values are not directly passed but send separately in array for SQL inje
 `db.query("DELETE FROM table_name WHERE id = ?", id, (err,result)=>{})`
 
 _Note - when we have to pass one value we can send it directly instead of array into prepared statement._
-
-
-GitHub Link - 
